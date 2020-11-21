@@ -8,7 +8,7 @@ using System.Text;
 using System.Windows.Forms;
 using System.IO;
 
-namespace TSOS_LAB_Finalq
+namespace TSOS_LAB1_Final
 {
     public partial class Form1 : Form
     {
